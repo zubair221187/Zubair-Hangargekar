@@ -1,4 +1,3 @@
-[![MasterHead](https://www.kiwiqa.com/wp-content/uploads/2018/10/testing-banner1-min-1200x600.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zubair Hangargekar</h1>
 <h3 align="center">Delivering Excellence in Quality Assurance, ETL Testing, and BI Solutions with 15+ Years of Expertise</h3>
 <img align="right" alt="Coding" width="400" src="https://binarapps.com/wp-content/uploads/2022/03/Difference_between_QA_and_Software_Testing.png">
